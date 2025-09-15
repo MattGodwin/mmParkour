@@ -1,0 +1,29 @@
+courses:
+  course1:
+    start:
+      world: 'world'
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    end:
+      world: 'world'
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    checkpoints:
+      cp1:
+        world: 'world'
+        x: 0
+        y: 0
+        z: 0
+        yaw: 0
+        pitch: 0
+
+players:
+  c8237bd3-44f9-479a-9420-7110136c7e05:
+    scores:
+      course1: 10.21
