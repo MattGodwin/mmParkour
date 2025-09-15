@@ -1,0 +1,4 @@
+name: mmParkour
+version: '1.0-SNAPSHOT'
+main: win.mattgod.mmParkour.MmParkour
+api-version: '1.21.8'
